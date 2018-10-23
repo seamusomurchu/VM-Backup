@@ -1,0 +1,33 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday 23 October 2018 15:44:43
+   Source : C:\Users\James\VirtualBox VMs\Ubuntu VM IV\
+     Dest : C:\Users\James\OneDrive - Maynooth University\VMBackUp\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /MT:32 /R:50 /W:1000 
+
+------------------------------------------------------------------------------
+
+	      modified		    2607	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Ubuntu VM IV.vbox
+	      modified		    2607	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Ubuntu VM IV.vbox-prev
+	      modified		  13.8 g	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Ubuntu VM IV.vdi
+	      modified		  118111	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Logs\VBox.log
+	      modified		  125565	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Logs\VBox.log.1
+	      modified		  125414	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Logs\VBox.log.2
+	      modified		  128175	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Logs\VBox.log.3
+	      modified		  335857	C:\Users\James\VirtualBox VMs\Ubuntu VM IV\Logs\VBoxHardening.log
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         3         0         0         0
+   Files :         8         0         8         0         0         0
+   Bytes :  13.824 g         0  13.824 g         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Tuesday 23 October 2018 15:44:43
+

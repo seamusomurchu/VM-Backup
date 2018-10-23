@@ -1,0 +1,17 @@
+link shows how to use xcopy
+
+https://www.lifewire.com/xcopy-command-2618103
+
+link shows how to run task scheduler
+
+https://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7
+
+link shows how to write batch file
+
+https://fossbytes.com/what-is-a-batch-file-in-windows-how-to-create-a-batch-file/
+
+Link for Robocopy
+
+https://www.makeuseof.com/tag/write-simple-batch-bat-file/
+
+
